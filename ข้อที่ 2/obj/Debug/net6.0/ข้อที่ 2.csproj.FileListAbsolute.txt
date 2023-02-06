@@ -1,0 +1,15 @@
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork01\ข้อที่ 2\obj\Debug\net6.0\ข้อที่ 2.csproj.AssemblyReference.cache
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork01\ข้อที่ 2\obj\Debug\net6.0\ข้อที่ 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork01\ข้อที่ 2\obj\Debug\net6.0\ข้อที่ 2.AssemblyInfoInputs.cache
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork01\ข้อที่ 2\obj\Debug\net6.0\ข้อที่ 2.AssemblyInfo.cs
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork01\ข้อที่ 2\obj\Debug\net6.0\ข้อที่ 2.csproj.CoreCompileInputs.cache
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork01\ข้อที่ 2\bin\Debug\net6.0\ข้อที่ 2.exe
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork01\ข้อที่ 2\bin\Debug\net6.0\ข้อที่ 2.deps.json
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork01\ข้อที่ 2\bin\Debug\net6.0\ข้อที่ 2.runtimeconfig.json
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork01\ข้อที่ 2\bin\Debug\net6.0\ข้อที่ 2.dll
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork01\ข้อที่ 2\bin\Debug\net6.0\ข้อที่ 2.pdb
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork01\ข้อที่ 2\obj\Debug\net6.0\ข้อที่ 2.dll
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork01\ข้อที่ 2\obj\Debug\net6.0\refint\ข้อที่ 2.dll
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork01\ข้อที่ 2\obj\Debug\net6.0\ข้อที่ 2.pdb
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork01\ข้อที่ 2\obj\Debug\net6.0\ข้อที่ 2.genruntimeconfig.cache
+D:\github\ปี 2 เทอม 2\GDM222_HomeWork01\ข้อที่ 2\obj\Debug\net6.0\ref\ข้อที่ 2.dll
